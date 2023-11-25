@@ -1,1 +1,1 @@
-https://Pufirik.github.io/rsschool-cv/cv
+https://Pufirik.github.io/rsschool-cv
