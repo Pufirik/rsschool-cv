@@ -6,6 +6,7 @@
 * English (A2)
 * HTML
 * CSS
+* Java Script
 ## Example code
 ```javascript
 function HelloWorld(){
